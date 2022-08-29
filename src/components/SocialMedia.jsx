@@ -17,24 +17,24 @@ const SocialMedia = () => {
           <BsGithub />
         </a>
       </div>
-      <div>
+      {/* <div>
         <a
           href="https://www.linkedin.com/in/andrey-tkachenko-56045992/"
           target="_blank"
         >
           <FaLinkedin />
         </a>
-      </div>
+      </div> */}
       <div>
         <a href="https://www.facebook.com/orsten.forever" target="_blank">
           <FaFacebookF />
         </a>
       </div>
-      <div>
+      {/* <div>
         <a href="https://www.instagram.com/savantess/" target="_blank">
           <BsInstagram />
         </a>
-      </div>
+      </div> */}
     </div>
   );
 };
